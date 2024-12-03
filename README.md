@@ -39,7 +39,10 @@ My nightmares are Dynamic Programming, String and Advanced Data Structures like 
     5. [2435 Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/)
     Rating: 1952
 
-- Knapsack
+- 0/1 Knapsack
+
+    6. [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
+    Rating: 2092
 
 ## Acknowledgement
 - https://leetcode.cn/circle/discuss/RvFUtj/
