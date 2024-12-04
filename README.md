@@ -44,6 +44,11 @@ My nightmares are Dynamic Programming, String and Advanced Data Structures like 
     6. [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
     Rating: 2092
 
+- Unbounded Knapsack
+    
+    7. [1449. Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/)
+    Rating: 1927
+
 ## Acknowledgement
 - https://leetcode.cn/circle/discuss/RvFUtj/
 - https://clist.by
