@@ -20,34 +20,39 @@ My nightmares are Dynamic Programming, String and Advanced Data Structures like 
 
 - Basic DP:
 
-    1. [2266 Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/)
-    Rating: 1857
-    
-    2. [3186 Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/)
-    Rating: 1841
+1. [2266 Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/)
+Rating: 1857
+
+2. [3186 Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/)
+Rating: 1841
 
 - Max Subarray Sum (Kadane)
 
-    3. [2321 Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/)
-    Rating: 1791
+3. [2321 Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/)
+Rating: 1791
 
 - Matrix
 
-    4. [1594 Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/)
-    Rating: 1807
+4. [1594 Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/)
+Rating: 1807
 
-    5. [2435 Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/)
-    Rating: 1952
+5. [2435 Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/)
+Rating: 1952
 
 - 0/1 Knapsack
 
-    6. [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
-    Rating: 2092
+6. [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
+Rating: 2092
 
 - Unbounded Knapsack
     
-    7. [1449. Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/)
-    Rating: 1927
+7. [1449. Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/)
+Rating: 1927
+
+- Bounded Knapsack
+
+8. [2585. Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points)
+Rating: 1910
 
 ## Acknowledgement
 - https://leetcode.cn/circle/discuss/RvFUtj/
