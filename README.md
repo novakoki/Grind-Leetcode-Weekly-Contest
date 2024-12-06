@@ -35,7 +35,6 @@ Rating: 1791
 
 4. [1594 Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/)
 Rating: 1807
-
 5. [2435 Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/)
 Rating: 1952
 
@@ -53,6 +52,11 @@ Rating: 1927
 
 8. [2585. Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points)
 Rating: 1910
+
+- Grouped Knapsack
+
+9. [1981. Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements)
+Rating: 2010
 
 ## Acknowledgement
 - https://leetcode.cn/circle/discuss/RvFUtj/
