@@ -58,6 +58,15 @@ Rating: 1910
 9. [1981. Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements)
 Rating: 2010
 
+### Advanced Data Structure
+
+- Fenwick Tree
+
+    - Two Dimension
+
+    10. [3382. Maximum Area Rectangle With Point Constraints II](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/)
+    Rating: 2738
+
 ## Acknowledgement
 - https://leetcode.cn/circle/discuss/RvFUtj/
 - https://clist.by
