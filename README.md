@@ -62,10 +62,15 @@ Rating: 2010
 
 - Fenwick Tree
 
-    - Two Dimension
+    - Two Dimension Count
 
     10. [3382. Maximum Area Rectangle With Point Constraints II](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/)
     Rating: 2738
+
+    - One Dimension Count
+    
+    11. [3072. Distribute Elements Into Two Arrays II](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii)
+    Rating: 2053
 
 ## Acknowledgement
 - https://leetcode.cn/circle/discuss/RvFUtj/
