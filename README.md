@@ -72,6 +72,13 @@ Rating: 2738
 11. [3072. Distribute Elements Into Two Arrays II](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii)
 Rating: 2053
 
+### String
+
+#### String Hashing
+
+12. [3388. Count Beautiful Splits in an Array](https://leetcode.com/contest/weekly-contest-428/problems/count-beautiful-splits-in-an-array)
+Rating: 2324
+
 ## Acknowledgement
 - https://leetcode.cn/circle/discuss/RvFUtj/
 - https://clist.by
