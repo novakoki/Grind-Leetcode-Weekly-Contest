@@ -79,6 +79,9 @@ Rating: 2053
 12. [3388. Count Beautiful Splits in an Array](https://leetcode.com/contest/weekly-contest-428/problems/count-beautiful-splits-in-an-array)
 Rating: 2324
 
+13. [1044. Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring)
+Rating: 2429
+
 ## Acknowledgement
 - https://leetcode.cn/circle/discuss/RvFUtj/
 - https://clist.by
